@@ -1,4 +1,4 @@
-package CreationalDesignPattern.BuilderPattern;
+package CreationalDesignPattern.Builder;
 
 public class Car {
     private int id ;

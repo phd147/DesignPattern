@@ -1,4 +1,4 @@
-package CreationalDesignPattern.BuilderPattern;
+package CreationalDesignPattern.Builder;
 
 public class Builder {
     private int id ;
