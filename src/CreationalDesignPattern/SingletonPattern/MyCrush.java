@@ -6,11 +6,13 @@ public class MyCrush {
         this.name = name ;
     }
 
+    public String getName(){return this.name;}
+
     private static MyCrush myCrush;
 
-    public MyCrush getInstance(){
+    public static MyCrush getInstance(){
         if(myCrush == null){
-            return new MyCrush("Cathh11");
+            return new MyCrush("Cath11");
         }
         return myCrush;
     }

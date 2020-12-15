@@ -1,4 +1,4 @@
-package CreationalDesignPattern.FactoryMethod;
+package CreationalDesignPattern.FactoryMethod.transport;
 
 public class Ship implements Transport {
     @Override
